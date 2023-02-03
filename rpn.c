@@ -124,7 +124,7 @@ int main() {
             			value=(temp_2/temp_1);
             		}
 
-           			push(&head, value);
+           		push(&head, value);
          
             		stackLen--;
 
